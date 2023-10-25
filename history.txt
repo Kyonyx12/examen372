@@ -1,0 +1,500 @@
+   15  tree Taller_clase_3/
+   16  #! bin/bash
+   17  mkdir -p ./Taller_clases_3/Archivos
+   18  mkdir ./Taller_clase_3/Mover_imagen1_aqui
+   19  cd ./Taller_clase_3/Archivos
+   20  touch texto_plano.txt
+   21  echo "Hola texto_plano" > texto_plano.txt
+   22  cp Texto_plano.txt ./Copia_texto_plano.txt
+   23  cd ..
+   24  url=https://nupec.com/wp-content/uploads/2021/02/Captura-de-pantalla-2021-02-08-a-las-13.59.48.png
+   25  curl -o imagen1.jpg $url
+   26  mv imagen1.jpg /Mover_iamgen1_aqui
+   27  tree ./ > estructura.txt
+   28  #! bin/bash
+   29  mkdir -p ./Taller_clases_3/Archivos
+   30  mkdir ./Taller_clase_3/Mover_imagen1_aqui
+   31  cd ./Taller_clase_3/Archivos
+   32  touch texto_plano.txt
+   33  echo "Hola texto_plano" > texto_plano.txt
+   34  cp Texto_plano.txt ./Copia_texto_plano.txt
+   35  cd ..
+   36  url=https://nupec.com/wp-content/uploads/2021/02/Captura-de-pantalla-2021-02-08-a-las-13.59.48.png
+   37  curl -o imagen1.jpg $url
+   38  mv imagen1.jpg /Mover_iamgen1_aqui
+   39  tree ./ > estructura.txt
+   40  tree Taller_clase_3/
+   41  cd desktop
+   42  tree Taller_clase_3/
+   43  mkdir carpeta1 >carpeta2
+   44  mkdir carpeta1 > carpeta2
+   45  mkdir carpeta1 > carpeta2
+   46  cd taller
+   47  mkdir taller
+   48  mkdir -p carpeta1/carpeta2/carpeta3/carpeta4
+   49  cd taller
+   50  mkdir -p carpeta1/carpeta2/carpeta3/carpeta4
+   51  ping -t google.com
+   52  ls ca[eta1/
+   53  ls carpeta1/
+   54  ls
+   55  start /
+   56  las - bin
+   57  ls - bin
+   58  ls /bin
+   59  tree ./
+   60  history > history.txt
+   61  cd ..
+   62  cd taller
+   63  code .
+   64  #! bin/bash
+   65  mkdir -p ./Taller_clases_3/Archivos
+   66  mkdir ./Taller_clase_3/Mover_imagen1_aqui
+   67  cd ./Taller_clase_3/Archivos
+   68  touch texto_plano.txt
+   69  echo "Hola texto_plano" > texto_plano.txt
+   70  cp Texto_plano.txt ./Copia_texto_plano.txt
+   71  cd ..
+   72  url=https://nupec.com/wp-content/uploads/2021/02/Captura-de-pantalla-2021-02-08-a-las-13.59.48.png
+   73  curl -o imagen1.jpg $url
+   74  mv imagen1.jpg /Mover_iamgen1_aqui
+   75  tree taller > estructura.txt
+   76  code .
+   77  #! bin/bash
+   78  mkdir -p ./Taller_clases_3/Archivos
+   79  mkdir ./Taller_clase_3/Mover_imagen1_aqui
+   80  cd ./Taller_clase_3/Archivos
+   81  touch texto_plano.txt
+   82  echo "Hola texto_plano" > texto_plano.txt
+   83  cp Texto_plano.txt ./Copia_texto_plano.txt
+   84  cd ..
+   85  url=https://nupec.com/wp-content/uploads/2021/02/Captura-de-pantalla-2021-02-08-a-las-13.59.48.png
+   86  curl -o imagen1.jpg $url
+   87  mv imagen1.jpg /Mover_imagen1_aqui
+   88  tree taller > estructura.txt
+   89  #! bin/bash
+   90  mkdir -p ./Taller_clases_3/Archivos
+   91  mkdir ./Taller_clase_3/Mover_imagen1_aqui
+   92  cd ./Taller_clase_3/Archivos
+   93  touch texto_plano.txt
+   94  echo "Hola texto_plano" > texto_plano.txt
+   95  cp Texto_plano.txt ./Copia_texto_plano.txt
+   96  cd ..
+   97  url=https://nupec.com/wp-content/uploads/2021/02/Captura-de-pantalla-2021-02-08-a-las-13.59.48.png
+   98  curl -o imagen1.jpg $url
+   99  mv imagen1.jpg /Mover_imagen1_aqui
+  100  tree taller > estructura.txt
+  101  #! bin/bash
+  102  mkdir -p ./Taller_clases_3/Archivos
+  103  mkdir -p ./Taller_clase_3/Mover_imagen1_aqui
+  104  cd ./Taller_clase_3/Archivos
+  105  touch texto_plano.txt
+  106  echo "Hola texto_plano" > texto_plano.txt
+  107  cp Texto_plano.txt ./Copia_texto_plano.txt
+  108  cd ..
+  109  url=https://nupec.com/wp-content/uploads/2021/02/Captura-de-pantalla-2021-02-08-a-las-13.59.48.png
+  110  curl -o imagen1.jpg $url
+  111  mv imagen1.jpg /Mover_imagen1_aqui
+  112  tree taller > estructura.txt
+  113  #! bin/bash
+  114  mkdir -p ./Taller_clase_3/Archivos
+  115  mkdir -p ./Taller_clase_3/Mover_imagen1_aqui
+  116  cd ./Taller_clase_3/Archivos
+  117  touch texto_plano.txt
+  118  echo "Hola texto_plano" > texto_plano.txt
+  119  cp Texto_plano.txt ./Copia_texto_plano.txt
+  120  cd ..
+  121  url=https://nupec.com/wp-content/uploads/2021/02/Captura-de-pantalla-2021-02-08-a-las-13.59.48.png
+  122  curl -o imagen1.jpg $url
+  123  mv imagen1.jpg /Mover_imagen1_aqui
+  124  tree taller > estructura.txt
+  125  #! bin/bash
+  126  mkdir -p ./Taller_clase_3/Archivos
+  127  mkdir -p ./Taller_clase_3/Mover_imagen1_aqui
+  128  cd ./Taller_clase_3/Archivos
+  129  touch texto_plano.txt
+  130  echo "Hola texto_plano" > texto_plano.txt
+  131  cp Texto_plano.txt ./Copia_texto_plano.txt
+  132  cd ..
+  133  url=https://nupec.com/wp-content/uploads/2021/02/Captura-de-pantalla-2021-02-08-a-las-13.59.48.png
+  134  curl -o imagen1.jpg $url
+  135  mv imagen1.jpg ./Mover_imagen1_aqui
+  136  tree ./ > estructura.txt
+  137  code .
+  138  code .
+  139  code .
+  140  code .
+  141  cd Desktop/
+  142  cd Taller_clase_3/
+  143  cd ..
+  144  mkdir terminal ; cd terminal
+  145  touch loops.sh
+  146  chmod +x loops.sh
+  147  nano loops.sh
+  148  nano loops.sh
+  149  nano loop.sh
+  150  nano loops.sh
+  151  ./loops.sh
+  152  nano loops.sh
+  153  ./loops.sh
+  154  nano loops.sh
+  155  nano loops.sh
+  156  code 
+  157  git init
+  158  git status
+  159  git add .
+  160  git commit 'm ¨Iniciamos proyecto y agregamos practica 1¨
+  161  git commit -m ¨Iniciamos proyecto y agregamos practica 1¨
+  162  git commit -m "Iniciamos proyecto y agregamos practica 1"
+  163  git config --global user.mail themisteryofworld@gmail.com
+  164  git config --global user.name Kyonyx12
+  165  git branch -M main
+  166  git remote add origin https://github.com/Kyonyx12/PracticasDSW.git
+  167  git push -u origin main
+  168  git push -u origin main
+  169  git commit -m "Iniciamos proyecto y agregamos practica 1"
+  170  git config --global user.mail themisteryofworld@gmail.com
+  171  git config --global user.name Kyonyx12
+  172  git commit -m "Iniciamos proyecto y agregamos practica 1"
+  173  git config --global user.email themisteryofworld@gmail.com
+  174  git commit -m "Iniciamos proyecto y agregamos practica 1"
+  175  git branch -M main
+  176  git remote add origin https://github.com/Kyonyx12/PracticasDSW.git
+  177  git push -u origin main
+  178  git status
+  179  git status
+  180  git add .
+  181  git push
+  182  git commit -m "Agregamos practica 2 y 3"
+  183  git push -u origin main
+  184  git commit -m "Agregamos practica 4, 5 y 6"
+  185  git push -u origin main
+  186  git add .
+  187  git commit -m "Agregamos practica 4, 5 y 6"
+  188  git push -u origin main
+  189  git add .
+  190  git commit -m "Agregamos practica 4, 5 y 6"
+  191  git add .
+  192  git commit -m "Agregamos practica 7, 8 y 9"
+  193  git push -u origin main
+  194  git add .
+  195  git commit -m "Agregamos practica 10, 11, 12, 13, 14 y 15"
+  196  git push -u origin main
+  197  git status
+  198  git add .
+  199  git commit -m "Se modifico el titulo de la practica1"
+  200  git commit -m "Se modifico el titulo de la practica1"
+  201  git push
+  202  mkdir project1
+  203  cd project1
+  204  touch historia.txt
+  205  code .
+  206  code .
+  207  code .
+  208  git status
+  209  git init
+  210  git remote add origin https://github.com/Kyonyx12/PracticasDSW.git
+  211  git add .
+  212  git commit -m "Creando nuestra primer pagina basica"
+  213  git push
+  214  git branch -M main
+  215  git push -u origin main
+  216  git add .
+  217  git commit -m "La segunda pagina simple de html"
+  218  git push -u origin main
+  219  git add .
+  220  git commit -m "Usando diferentes tags de texto de html"
+  221  git push -u origin main
+  222  git add .
+  223  git commit -m "Empezando con las listas de html"
+  224  git add .
+  225  git push -u origin main
+  226  git add .
+  227  git commit -m "Usando listas y la tag de urls en html"
+  228  git push -u origin main
+  229  git add .
+  230  git commit -m "Usando listas, imagenes y estrucura basica de html"
+  231  git push -u origin main
+  232  git add .
+  233  git commit -m "Empezando con las tablas de html"
+  234  git push -u origin main
+  235  git add .
+  236  git commit -m "Tablas mas complejas en html"
+  237  git push -u origin main
+  238  git add .
+  239  git commit -m "Usando listas complejas para hacer mi horario escolar"
+  240  git push -u origin main
+  241  git add .
+  242  git commit -m "Creando mi primer formulario"
+  243  git push -u origin main
+  244  git add .
+  245  git commit -m "Creando mi segundo formulario con atributos"
+  246  git push -u origin main
+  247  git add .
+  248  git commit -m "Creando tablas con imagenes"
+  249  git push -u origin main
+  250  git add .
+  251  git commit -m "Creando tablas mas complejas y anidadas"
+  252  git push -u origin main
+  253  CODE .
+  254  code .
+  255  git add .
+  256  git remote add https://github.com/Kyonyx12/PracticasDSW.git
+  257  git pull https://github.com/Kyonyx12/PracticasDSW.git
+  258  git init
+  259  git pull https://github.com/Kyonyx12/PracticasDSW.git
+  260  git remote add https://github.com/Kyonyx12/PracticasDSW.git
+  261  git remote add practicasDSW https://github.com/Kyonyx12/PracticasDSW.git1
+  262  git add
+  263  git add .
+  264  git commit "Ejercicios de clase y operaciones con dos numeros"
+  265  git commit -u "Ejercicios de clase y operaciones con dos numeros"
+  266  git commit -m "Ejercicios de clase y operaciones con dos numeros"
+  267  git push origin main
+  268  git branch origin main
+  269  git push origin main
+  270  git branch -M main
+  271  git push -u origin main
+  272  git push practiasDSW main
+  273  git push practicasDSW main
+  274  git add .
+  275  git commit -M "Ejercicios de javascript, calculadora basica, operadores logicos"
+  276  git commit -m "Ejercicios de javascript, calculadora basica, operadores logicos"
+  277  git push practicasDSW main
+  278  git revert 45239e8
+  279  git init
+  280  git remote add https://github.com/Kyonyx12/PracticasDSW.git
+  281  git remote add origin https://github.com/Kyonyx12/PracticasDSW.git
+  282  git pull https://github.com/Kyonyx12/PracticasDSW.git
+  283  git branch -M main
+  284  code .
+  285  git add .
+  286  git commit -m "Segunda practica con javascrip, operadores logicos"
+  287  git push origin main
+  288  git add .
+  289  git commit -m "Pracita uno de javascript, operaciones de dos numeros"
+  290  git push origin main
+  291  mkdir scirptsbash
+  292  cd scirptsbash/
+  293  code .
+  294  code .
+  295  git init
+  296  git remote add origin https://github.com/Kyonyx12/PracticasDSW.git
+  297  git pull https://github.com/Kyonyx12/PracticasDSW.git
+  298  git branch -M main
+  299  git add .
+  300  git commit -m "Tercera practia javascript, uso de la sentencia if, if else y else"
+  301  git push origin main
+  302  git add .
+  303  git commit -m "Cuarta practica javascript, uso de sentencia switch y uso de ifs"
+  304  git push origin main
+  305  code .
+  306  git add .
+  307  git commit -m "Tercera practia javascript, uso de la sentencia if, if else y else"
+  308  git push origin main
+  309  git add .
+  310  git commit -m "Cuarta practica javascript, uso de sentencia switch y uso de ifs"
+  311  git push origin main
+  312  code .
+  313  code .
+  314  code .
+  315  code .
+  316  git init
+  317  git remote add origin https://github.com/Kyonyx12/PracticasDSW.git
+  318  git pull https://github.com/Kyonyx12/PracticasDSW.git
+  319  git branch -M main
+  320  git add .
+  321  git commit -m "Aprendiendo sobre ciclo for y propiedades de arreglos"
+  322  git push origin main
+  323  git add .
+  324  git commit -m "Arreglos for, for..in, foreach, for...of, recorriendo arreglos y usando metodos de array"
+  325  git push origin main
+  326  git add .
+  327  git commit -m "Arreglos for, for..in, foreach, for...of, recorriendo arreglos y usando metodos de array"
+  328  git push origin main
+  329  code .
+  330  code .
+  331  code .
+  332  git init
+  333  git remote add origin https://github.com/Kyonyx12/PracticasDSW.git
+  334  git pull https://github.com/Kyonyx12/PracticasDSW.git
+  335  git branch -M main
+  336  git add .
+  337  git commit -m "Aprendiendo sobre funciones y parametros, ejercicios de calculadora, par o impar y huracan booleano"
+  338  git push origin main
+  339  code .
+  340  code .
+  341  mkdir 3722023-2; cd 3722023-2
+  342  echo "# 3722023-2" >> README.md
+  343  git init
+  344  git add README.md
+  345  git commit -m "first commit"
+  346  git branch -M main
+  347  git remote add origin https://github.com/Kyonyx12/3722023-2.git
+  348  git push -u origin main
+  349  git config --list
+  350  git status
+  351  git branch --all
+  352  touch main.py
+  353  echo "print('segundo commit')" >> main.py
+  354  git status
+  355  git add main.py
+  356  git commit -m "second commit"
+  357  git log --oneline
+  358  git push
+  359  git log --oneline
+  360  code .
+  361  git init
+  362  git remote add origin https://github.com/Kyonyx12/PracticasDSW.git
+  363  git pull https://github.com/Kyonyx12/PracticasDSW.git
+  364  git branch -M main
+  365  git remote add origin https://github.com/Kyonyx12/3722023-2.git
+  366  git add .
+  367  git commit -m "Arreglando una pagina interactiva con javascript, imagenes svg y documentando el codigo"
+  368  git push origin main
+  369  code .
+  370  code .
+  371  git add .
+  372  git commit -m "Arreglando una pagina interactiva con javascript, imagenes svg y documentando el codigo"
+  373  git push origin main
+  374  code .
+  375  code .
+  376  git init
+  377  git remote add origin https://github.com/Kyonyx12/PracticasDSW.git
+  378  git pull https://github.com/Kyonyx12/PracticasDSW.git
+  379  git branch -M main
+  380  git add .
+  381  git commit -m "Creando una nueva pagina interactiva de trivia, usando la base de la practica anterior"
+  382  git push origin main
+  383  code .
+  384  pwd
+  385  ls -l
+  386  cat "hols" > history.txt
+  387  cat "hols" > history.txt
+  388  pwd
+  389  mkdir repaso
+  390  mkdir ./repaso/carpeta1/carpeta2 -p
+  391  cd repaso/
+  392  cd carpeta1/carpeta2/
+  393  cd ..
+  394  cd ..
+  395  rm -rf carpeta1/
+  396  ls
+  397  touch file1.txt
+  398  ls
+  399  echo "print('hola python')" > main.py
+  400  cat main.py 
+  401  age=18
+  402  echo $age
+  403  echo "tu edad es: ${age}"
+  404  touch message.sh 
+  405  chmod +x message.sh 
+  406  cat message.sh 
+  407  code message.sh 
+  408  echo $SHELL
+  409  whoami
+  410  file main.py 
+  411  file message.sh 
+  412  read -p "Ingresa tu nombre:" name
+  413  echo $name 
+  414  history > elhistorialdehoy
+  415  history > elhistorialdehoy.txt
+  416  ls
+  417  touch file2.txt
+  418  git init
+  419  git branch -M main
+  420  git status
+  421  git add .
+  422  git status
+  423  git commit -m 
+  424  git commit -m "first commit"
+  425  git log --oneline
+  426  cat file1.txt
+  427  echo "pepito"
+  428  echo "pepito" > file1.txt
+  429  git status
+  430  git commit -am "modify file1.txt"
+  431  cat file1.txt 
+  432  git status
+  433  git add file1.txt
+  434  git commit -m "modifie file again"
+  435  git log
+  436  git log --oneline file1.txt
+  437  git log --online --decorate --all
+  438  git log --oneline --decorate --all
+  439  git 
+  440  git log --oneline
+  441  git log --oneline --decorate --all
+  442  touch a.txt
+  443  git status 
+  444  git add a.txt 
+  445  git status
+  446  git commit -m 
+  447  git commit -m "added A.txt"
+  448  git log --oneline --decorate --all
+  449  git log --oneline --graph --decorate --all
+  450  git switch main
+  451  touch b.txt
+  452  ls
+  453  git log --oneline --graph --decorate --all
+  454  git status
+  455  git add b.txt 
+  456  git commit -m "added b.txt"
+  457  git log --oneline --graph --decorate --all
+  458  git switch AddThings
+  459  git log ==oneline
+  460  git log --oneline
+  461  touch c.txt
+  462  git add c.txt 
+  463  git commit -m "adde c.txt"
+  464  git log --oneline
+  465  git log --oneline --graph --decorate --all
+  466  git checkout 9f94c20
+  467  git switch -c "experiments"
+  468  git log --oneline
+  469  git log --oneline --graph --decorate --all
+  470  cat file1.txt 
+  471  echo pepitoxd > file1.txt 
+  472  git status
+  473  git add .
+  474  got commit -m 
+  475  got commit -m "se cambio a pepitoxd"
+  476  git log --oneline --graph --decorate --all
+  477  history > historialdehoy.txt
+  478  ls
+  479  git switch main
+  480  git merge AddThings
+  481  git merge AddThings
+  482  git merge experiments 
+  483  history > historialdehoy.txt
+  484  code .
+  485  code .
+  486  git init
+  487  git remote add origin https://github.com/Kyonyx12/PracticasDSW.git
+  488  git pull https://github.com/Kyonyx12/PracticasDSW.git
+  489  git branch -M main
+  490  git add .
+  491  git commit -m 
+  492  git commit -m "Haciendo un programa con javascript que calcula promedio, y te dice si exentas ordinario o no"
+  493  git push
+  494  git push origin main
+  495  code .
+  496  git clone https://gist.github.com/c514e789859c9107c63ab99efe27735d.git
+  497  code examen
+  498  git clone https://gist.github.com/c514e789859c9107c63ab99efe27735d.git examen
+  499  code .
+  500  cd examen
+  501  ./create.sh 
+  502  cmd //c tree //F ./
+  503  ./create
+  504  ./create.sh
+  505  cmd //c tree //F ./
+  506  git add create.sh 
+  507  git commit -m "Second commit, structure created"
+  508  ./create.sh 
+  509  cmd //c tree //F ./
+  510  ./create.sh 
+  511  mv examen372.md README.md
+  512  git add .
+  513  git commit -m "Third commit, add README.md and final script updated"
+  514  history > history.txt
